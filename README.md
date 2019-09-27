@@ -14,4 +14,6 @@ Download sample app from this link
 
 https://drive.google.com/file/d/1WszfmW9ilig3D4AUIp7XLuMpy7CTi9qy/view?usp=sharing
 
+## Clean Architecture
+![](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
 
